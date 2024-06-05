@@ -12,6 +12,7 @@ export const useProfileStore = create<ProfileState>()((set, get) => ({
   email: 'mauri.monzon.dev@gmail.com',
 
   changeProfile: (name: string, email: string) => {
+    console.log(get());
     set({name, email});
   },
 }));
