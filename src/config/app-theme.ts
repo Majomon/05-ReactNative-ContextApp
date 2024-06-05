@@ -11,7 +11,7 @@ export const styles = StyleSheet.create({
     color: '#000',
   },
   primaryButton: {
-    backgroundColor: 'dadada',
+    backgroundColor: '#dadada',
     padding: 10,
     borderRadius: 5,
     marginVertical: 10,

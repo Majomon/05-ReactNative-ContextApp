@@ -5,7 +5,7 @@ import {styles} from '../../../config';
 export const SettingsScreen = () => {
   return (
     <View style={styles.container}>
-      <Text>SettingsScreen</Text>
+      <Text style={styles.tittle}>SettingsScreen</Text>
     </View>
   );
 };
