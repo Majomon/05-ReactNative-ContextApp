@@ -8,7 +8,7 @@ export const styles = StyleSheet.create({
   tittle: {
     fontSize: 20,
     fontWeight: 'bold',
-    color: '000',
+    color: '#000',
   },
   primaryButton: {
     backgroundColor: 'dadada',
